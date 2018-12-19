@@ -6,7 +6,7 @@ const Scoreboard = props => (
     <div className="row">
       <div className="col-sm-6">
         
-          <p className="scoreboard col-sm-10">{props.msg}</p>
+          <p className="scoreboard">{props.msg}</p>
         
       </div>
       <div className="col-sm-6">
