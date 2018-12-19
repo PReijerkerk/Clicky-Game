@@ -118,7 +118,7 @@ render() {
                 handleClick={this.handleClick}
               />
             ))
-          };
+          }
           </div>
         </Wrapper>
       )
