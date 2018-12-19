@@ -7,7 +7,7 @@ const Navbar = () => (
         <a className="navbar-brand" href="/">Scooby-Doo Clicky-Game!</a>
       </div>
       <ul className="nav navbar-nav">
-        <a href="https://github.com/PReijerkerk/Clicky-Game">GitHub Repo</a>
+        <a class="github" href="https://github.com/PReijerkerk/Clicky-Game">GitHub Repo</a>
       </ul>
     </nav>
 );
